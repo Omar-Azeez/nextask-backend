@@ -1,0 +1,12 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore local JSON data
+data/*.json
+
+# Ignore environment files
+.env
+
+# Ignore logs
+npm-debug.log
+yarn-error.log
